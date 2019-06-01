@@ -682,7 +682,7 @@ public class LogExample {
 
 ### 四、其他
 
-- demo 代码地址：
+- demo 代码地址：[lombok-demo](https://github.com/izerone/awsome-java-tools/tree/master/lombok/lombok-demo)
 
 
 
